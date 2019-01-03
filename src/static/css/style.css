@@ -1,0 +1,17 @@
+
+body {
+    background-image: url('header.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+#login-form {
+    margin-top: 25px;
+
+
+}
+
+
+.login-page-form {
+    max-width: 480px;
+}
